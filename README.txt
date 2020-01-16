@@ -22,6 +22,11 @@ We thank all the authors who kindly allowed us to include their texts into the t
 
 # Changelogs
 
+* 2020-01-16 **IWPT Shared Task Data**
+  * Enhanced graph: Added case information to oblique relations.
+  * Enhanced graph: Transformed relations between relative clauses and modified nouns.
+
+
 * CHANGELOG 1.0 -> 1.1
 
 The data has only seen small changes between the original 1.0 release

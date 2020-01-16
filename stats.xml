@@ -95,7 +95,7 @@
     <feat name="Number" value="Sing" upos="ADJ,AUX,NOUN,NUM,PRON,PROPN,VERB">105361</feat><!-- on, ei, oli, se, hän, sen, joka, sitä, olisi, voi -->
     <feat name="Number[psor]" value="Plur" upos="ADJ,ADP,ADV,AUX,NOUN,PRON,PROPN,VERB">332</feat><!-- joukkueemme, mielestämme, edessämme, elämässämme, itsellemme, itseämme, keskuudessamme, lapsemme, toisiamme, elämämme -->
     <feat name="Number[psor]" value="Sing" upos="ADJ,ADP,ADV,AUX,NOUN,PRON,PROPN,VERB">959</feat><!-- mielestäni, silmäni, itseni, itseäni, käteni, mieheni, ystäväni, pääni, elämäni, itselleni -->
-    <feat name="NumType" value="Card" upos="ADJ,NUM">4685</feat><!-- 1, 2, kaksi, 2009, 3, 5, 4, kolme, yksi, 10 -->
+    <feat name="NumType" value="Card" upos="ADJ,NUM">4981</feat><!-- 1, 2, kaksi, 2009, 3, 5, 4, kolme, yksi, 10 -->
     <feat name="NumType" value="Ord" upos="ADJ">1153</feat><!-- ensimmäinen, 1., ensimmäisen, 2., 3., toisen, II, toinen, I, ensimmäistä -->
     <feat name="PartForm" value="Agt" upos="AUX,VERB">508</feat><!-- johtama, edellyttämät, esittämä, tekemä, järjestämän, järjestämässä, olemassa, aiheuttamasta, antama, antamaa -->
     <feat name="PartForm" value="Neg" upos="VERB">9</feat><!-- asettelematonta, hallitsemattomissa, kunnioittamattomasta, mainitsemattoman, maksamattomia, palamaton, pesimättömiä, tavoittamattomissa, ulottumattomissa -->
